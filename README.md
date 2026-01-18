@@ -20,8 +20,8 @@ The main objectives of this project are:
 ## 📂 Project Files
 
 This repository contains:
-- `bookings.csv` – Raw Ola ride booking dataset  
-- `Ola DA Project.pbix` – Power BI dashboard file  
+- `Bookings.csv` – Raw Ola ride booking dataset  
+- `ola power bi.pbix` – Power BI dashboard file  
 - `ola_dataanalyst_sqlquery` – SQL queries used for analysis  
 - `README.md` – Project documentation  
 
